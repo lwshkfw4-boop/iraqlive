@@ -1,0 +1,13 @@
+# Firebase
+android/app/google-services.json
+ios/Runner/GoogleService-Info.plist
+lib/firebase_options.dart
+
+# Flutter
+build/
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+/ios/Flutter/App.framework
+/ios/Flutter/Flutter.framework
