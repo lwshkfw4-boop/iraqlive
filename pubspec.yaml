@@ -1,0 +1,15 @@
+name: iraq_live
+description: Iraq Live App with Admin and Billing
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  in_app_purchase: ^3.1.13
+
+flutter:
+  uses-material-design: true
